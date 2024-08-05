@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**SunthornK/SunthornK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Description
+👋 Hi, I'm **Tung**! Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+🌟 **About Me**:
+- 🏫 **Education**: Studying Software and Knowledge Engineering at Kasetsart University (SKE21, KU83).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technical Skills**:
+- **Languages**: Python, C++
+
+🌍 **Connect with Me**:
+- [Instagram](https://www.instagram.com/tungthorn__/)
+
+🚀 **Current Projects**:
+- None
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
