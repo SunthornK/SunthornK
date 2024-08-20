@@ -12,6 +12,6 @@
 - [Instagram](https://www.instagram.com/tungthorn__/)
 
 🚀 **Current Projects**:
-- None
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+- [KU Polls](https://github.com/SunthornK/ku-polls)
+  
+Feel free to explore my repositories
