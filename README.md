@@ -12,6 +12,6 @@
 - [Instagram](https://www.instagram.com/tungthorn__/)
 
 🚀 **Current Projects**:
-- [KU Polls](https://github.com/SunthornK/ku-polls)
+- [EventEase](https://github.com/Mamajin/Event-Reservation)
   
 Feel free to explore my repositories
