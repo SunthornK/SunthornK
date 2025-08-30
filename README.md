@@ -12,6 +12,6 @@
 - [Instagram](https://www.instagram.com/tungthorn__/)
 
 🚀 **Current Projects**:
-- [Crops-Recommendation](https://github.com/SunthornK/crops-recommendation)
+- [KU-connect](https://github.com/AvengerDisassemble/KU-connect)
   
 Feel free to explore my repositories
