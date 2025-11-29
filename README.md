@@ -9,9 +9,9 @@
 - **Languages**: Python, C++, Javascript
 
 🌍 **Connect with Me**:
-- [Instagram](https://www.instagram.com/tungthorn__/)
+- [LinkedIn](https://www.linkedin.com/in/sunthorn-kompita-246027398?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 🚀 **Current Projects**:
-- [KU-connect](https://github.com/AvengerDisassemble/KU-connect)
+- [KU-connect](https://www.linkedin.com/in/sunthorn-kompita-246027398)
   
 Feel free to explore my repositories
